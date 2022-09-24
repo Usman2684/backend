@@ -1,0 +1,8 @@
+Django
+django-cors-headers
+djangorestframework
+djoser
+social-auth-app-django
+Pillow
+psycopg2
+braintree
